@@ -1,0 +1,3 @@
+B73v5.NAM-illumina_filtered-pass-only-two-round-gatk-snps.chronly.AWDELs.biallelicsnps.allnhetstomd.short.sorted.intergenic.bed
+B73v5.NAM-illumina_filtered-pass-only-two-round-gatk-snps.chronly.AWDELs.biallelicsnps.allnhetstomd.short.sorted.genic.bed
+B73v5.NAM-illumina_filtered-pass-only-two-round-gatk-snps.chronly.AWDELs.biallelicsnps.allnhetstomd.short.sorted.true.bed
